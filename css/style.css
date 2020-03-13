@@ -44,6 +44,7 @@ nav ul li {
     padding-right: 40px;
     padding-top: 10px;
     font-size: 20px;
+    color:rgb(19, 116, 103);
 }
 
 #identitas{
@@ -72,10 +73,11 @@ nav ul li {
 .call-me {
     padding: 12px 32px;
     background-color: rgb(255, 252, 52);
-    color: black;
+    color: rgb(19, 116, 103);
     margin-top: 16px;
     border-radius: 32px;
     transition: 0.3s;
+    font-family: gotham black;
 }
 
 .call-me:hover {
