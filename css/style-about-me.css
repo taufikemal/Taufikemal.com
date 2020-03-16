@@ -3,10 +3,12 @@ html{
 }
 
 body{
-	background:rgb(255, 50, 50);
-    font-family: Gotham Black;
+	background:url("https://wallpapershome.com/images/wallpapers/abstract-1280x720-3d-colorful-8k-21250.jpg");
+    background-size: 100%;
     margin: 0;
     padding: 0;
+    font-family: 'Baloo Thambi 2', cursive;
+    font-size: large;
 }
 
 nav {
@@ -52,17 +54,21 @@ nav ul li {
     text-align: justify;
     font-size: large;
     color: white;
-    font-family: Gotham;
     padding-left: 45px;
+    padding-top: 120px;
+}
+
+#identitas h2{
 }
 
 #identitas p{
+    padding-top: 0;
     padding-right: 36px;
 }
 
 #gambar {
     width: 50%;
-    padding-top: 20px;
+    padding-top: 30px;
 }
 
 #gambar img{
@@ -71,18 +77,53 @@ nav ul li {
 }
 
 .call-me {
-    padding: 12px 32px;
+    padding: 12px 48px;
+    font-style: inherit;
     background-color: rgb(255, 252, 52);
-    color: rgb(255, 50, 50);
+    color: rgb(19, 116, 103);
     margin-top: 16px;
     border-radius: 32px;
     transition: 0.3s;
-    font-family: gotham black;
+    
 }
 
 .call-me:hover {
-    box-shadow: 0px 5px 5px rgb(255, 50, 50);
+    box-shadow: 0px 5px 5px rgb(19, 116, 103);
     background-color: white;
     color: rgb(0, 0, 0);
     transition: 0.3s;
+}
+
+#seksi-2main{
+    display: flex;
+}
+
+#seksi-2a{
+    width: 33%;
+    text-align: justify;
+    font-size: large;
+    color: white;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 120px;
+}
+
+#seksi-2b{
+    width: 33%;
+    text-align: justify;
+    font-size: large;
+    color: white;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 120px;
+}
+
+#seksi-2c{
+    width: 33%;
+    text-align: justify;
+    font-size: large;
+    color: white;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 120px;
 }
