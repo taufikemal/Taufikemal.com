@@ -3,7 +3,7 @@ html{
 }
 
 body{
-	background:url("https://wallpapershome.com/images/wallpapers/abstract-1280x720-3d-colorful-8k-21250.jpg");
+	background:url("https://i.ibb.co/9WDRqSd/back-1.jpg");
     background-size: 100%;
     margin: 0;
     padding: 0;
@@ -23,6 +23,12 @@ nav {
     padding-left: 16px;
     padding-top: 13px;
     margin: 0;
+}
+
+#batas{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
 }
 
 a {
@@ -88,7 +94,7 @@ nav ul li {
 }
 
 .call-me:hover {
-    box-shadow: 0px 5px 5px rgb(19, 116, 103);
+    box-shadow: 0px 5px 5px #c60633;
     background-color: white;
     color: rgb(0, 0, 0);
     transition: 0.3s;
@@ -100,11 +106,10 @@ nav ul li {
 
 #seksi-2a{
     width: 33%;
-    text-align: justify;
+    
     font-size: large;
     color: white;
-    padding-left: 45px;
-    padding-right: 45px;
+    padding-left: 10%;
     padding-top: 120px;
 }
 
@@ -113,8 +118,7 @@ nav ul li {
     text-align: justify;
     font-size: large;
     color: white;
-    padding-left: 45px;
-    padding-right: 45px;
+    padding-left: 10%;
     padding-top: 120px;
 }
 
@@ -123,7 +127,10 @@ nav ul li {
     text-align: justify;
     font-size: large;
     color: white;
-    padding-left: 45px;
-    padding-right: 45px;
+    padding-left: 10%;
     padding-top: 120px;
+}
+
+#teks-seksi{
+    text-align: center;
 }
