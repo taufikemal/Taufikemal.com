@@ -64,8 +64,6 @@ nav ul li {
     padding-top: 120px;
 }
 
-#identitas h2{
-}
 
 #identitas p{
     padding-top: 0;
@@ -133,4 +131,8 @@ nav ul li {
 
 #teks-seksi{
     text-align: center;
+}
+
+#closing{
+    margin: 30% auto;
 }
